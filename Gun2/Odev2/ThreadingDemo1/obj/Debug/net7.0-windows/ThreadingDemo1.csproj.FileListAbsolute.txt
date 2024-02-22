@@ -1,0 +1,16 @@
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\bin\Debug\net7.0-windows\ThreadingDemo1.exe
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\bin\Debug\net7.0-windows\ThreadingDemo1.deps.json
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\bin\Debug\net7.0-windows\ThreadingDemo1.runtimeconfig.json
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\bin\Debug\net7.0-windows\ThreadingDemo1.dll
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\bin\Debug\net7.0-windows\ThreadingDemo1.pdb
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.Form1.resources
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.csproj.GenerateResource.cache
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.AssemblyInfoInputs.cache
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.AssemblyInfo.cs
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.csproj.CoreCompileInputs.cache
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.dll
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\refint\ThreadingDemo1.dll
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.pdb
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ThreadingDemo1.genruntimeconfig.cache
+C:\Users\aidata\source\repos\MyList\ThreadingDemo1\obj\Debug\net7.0-windows\ref\ThreadingDemo1.dll

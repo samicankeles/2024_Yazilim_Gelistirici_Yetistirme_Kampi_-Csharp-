@@ -1,0 +1,14 @@
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/bin/Debug/net8.0/Conditionals
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/bin/Debug/net8.0/Conditionals.deps.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/bin/Debug/net8.0/Conditionals.runtimeconfig.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/bin/Debug/net8.0/Conditionals.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/bin/Debug/net8.0/Conditionals.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/Conditionals.AssemblyInfoInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/Conditionals.AssemblyInfo.cs
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/Conditionals.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/refint/Conditionals.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/Conditionals.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/Conditionals.genruntimeconfig.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Conditionals/obj/Debug/net8.0/ref/Conditionals.dll

@@ -1,0 +1,14 @@
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll

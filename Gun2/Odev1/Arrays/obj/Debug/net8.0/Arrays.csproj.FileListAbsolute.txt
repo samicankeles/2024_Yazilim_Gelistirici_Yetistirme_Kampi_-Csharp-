@@ -1,0 +1,14 @@
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/bin/Debug/net8.0/Arrays
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Arrays/obj/Debug/net8.0/ref/Arrays.dll

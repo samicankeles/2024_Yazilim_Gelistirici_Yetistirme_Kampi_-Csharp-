@@ -1,0 +1,14 @@
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/bin/Debug/net8.0/Strings
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/bin/Debug/net8.0/Strings.deps.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/bin/Debug/net8.0/Strings.runtimeconfig.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/bin/Debug/net8.0/Strings.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/bin/Debug/net8.0/Strings.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/Strings.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/refint/Strings.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/Strings.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Strings/obj/Debug/net8.0/ref/Strings.dll

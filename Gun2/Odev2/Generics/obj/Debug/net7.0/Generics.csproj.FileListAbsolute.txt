@@ -1,0 +1,14 @@
+C:\Users\aidata\source\repos\MyList\Generics\bin\Debug\net7.0\Generics.exe
+C:\Users\aidata\source\repos\MyList\Generics\bin\Debug\net7.0\Generics.deps.json
+C:\Users\aidata\source\repos\MyList\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+C:\Users\aidata\source\repos\MyList\Generics\bin\Debug\net7.0\Generics.dll
+C:\Users\aidata\source\repos\MyList\Generics\bin\Debug\net7.0\Generics.pdb
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\Generics.dll
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\refint\Generics.dll
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\Generics.pdb
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+C:\Users\aidata\source\repos\MyList\Generics\obj\Debug\net7.0\ref\Generics.dll

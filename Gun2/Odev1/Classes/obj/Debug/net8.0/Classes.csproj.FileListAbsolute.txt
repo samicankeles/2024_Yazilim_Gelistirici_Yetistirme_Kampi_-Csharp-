@@ -1,0 +1,14 @@
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/bin/Debug/net8.0/Classes
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/bin/Debug/net8.0/Classes.deps.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/bin/Debug/net8.0/Classes.runtimeconfig.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/bin/Debug/net8.0/Classes.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/bin/Debug/net8.0/Classes.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/Classes.AssemblyInfoInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/Classes.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/refint/Classes.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/Classes.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/Classes.genruntimeconfig.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/Classes/obj/Debug/net8.0/ref/Classes.dll

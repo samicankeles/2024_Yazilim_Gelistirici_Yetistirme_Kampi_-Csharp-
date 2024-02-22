@@ -1,0 +1,14 @@
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\bin\Debug\net7.0\ReferenceTypes.exe
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\bin\Debug\net7.0\ReferenceTypes.deps.json
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\bin\Debug\net7.0\ReferenceTypes.runtimeconfig.json
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\bin\Debug\net7.0\ReferenceTypes.dll
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\bin\Debug\net7.0\ReferenceTypes.pdb
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\ReferenceTypes.AssemblyInfo.cs
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\ReferenceTypes.dll
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\refint\ReferenceTypes.dll
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\ReferenceTypes.pdb
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\ReferenceTypes.genruntimeconfig.cache
+C:\Users\aidata\source\repos\MyList\ReferenceTypes\obj\Debug\net7.0\ref\ReferenceTypes.dll

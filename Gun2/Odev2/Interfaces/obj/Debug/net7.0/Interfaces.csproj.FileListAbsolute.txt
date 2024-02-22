@@ -1,0 +1,14 @@
+C:\Users\aidata\source\repos\MyList\Interfaces\bin\Debug\net7.0\Interfaces.exe
+C:\Users\aidata\source\repos\MyList\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\Users\aidata\source\repos\MyList\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+C:\Users\aidata\source\repos\MyList\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\Users\aidata\source\repos\MyList\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+C:\Users\aidata\source\repos\MyList\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll

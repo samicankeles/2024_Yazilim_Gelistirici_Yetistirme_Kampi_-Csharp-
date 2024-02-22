@@ -1,0 +1,14 @@
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/InterfacesDemo.AssemblyInfoInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/InterfacesDemo.AssemblyInfo.cs
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/InterfacesDemo.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/bin/Debug/net8.0/InterfacesDemo
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/bin/Debug/net8.0/InterfacesDemo.deps.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/bin/Debug/net8.0/InterfacesDemo.runtimeconfig.json
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/bin/Debug/net8.0/InterfacesDemo.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/bin/Debug/net8.0/InterfacesDemo.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/InterfacesDemo.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/refint/InterfacesDemo.dll
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/InterfacesDemo.pdb
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/InterfacesDemo.genruntimeconfig.cache
+/Users/samicankeles/Projects/2024_Yazilim_Gelistirici_Yetistirme_Kampi_(Csharp)/TypesAndVariables/InterfacesDemo/obj/Debug/net8.0/ref/InterfacesDemo.dll
