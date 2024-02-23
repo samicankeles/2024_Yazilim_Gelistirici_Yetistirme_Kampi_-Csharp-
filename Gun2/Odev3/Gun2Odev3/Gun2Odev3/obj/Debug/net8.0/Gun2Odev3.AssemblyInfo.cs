@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gun2Odev3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+551f45f1fcfaed2c0f318926537bb8b5690b9fdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59483a8df69c91c6e19af73818d43a25400f69d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gun2Odev3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gun2Odev3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -37,6 +37,15 @@ namespace Gun2Odev3.Business.Concretes
         {
             _instructorDal.Update(oldInstructorId, newInstructor);
         }
+
+        public void Show(Instructor instructor)
+        {
+            Console.WriteLine("ID: {0}", instructor.Id);
+            Console.WriteLine("Fotoğraf: {0}", instructor.PhotoFilePath);
+            Console.WriteLine("Ad Soyad: {0} {1}", instructor.FirstName, instructor.LastName);
+            Console.WriteLine("Hakkında: {0}", instructor.About);
+            Console.WriteLine("");
+        }
     }
 }
 

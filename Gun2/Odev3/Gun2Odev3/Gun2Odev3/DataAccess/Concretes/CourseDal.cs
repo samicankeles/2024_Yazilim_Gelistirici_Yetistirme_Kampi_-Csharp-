@@ -23,7 +23,7 @@ namespace Gun2Odev3.DataAccess.Concretes
                     Id = 3,
                     Name = "Master Seviye C++",
                     About = "Bu kursta 221 saat ders ile eğer orta düzeydeyseniz master düzeyinde C++ öğreneceksiniz !",
-                    InstructorIds = new List<int> {126, 974}
+                    InstructorIds = new List<int> {196, 974}
                 },
                 new Course
                 {

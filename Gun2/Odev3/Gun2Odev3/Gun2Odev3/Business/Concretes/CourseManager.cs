@@ -37,6 +37,19 @@ namespace Gun2Odev3.Business.Concretes
         {
             _courseDal.Update(oldCourseId, newCourse);
         }
+
+        public void Show(Course course)
+        {
+            Console.WriteLine("Kurs ID: {0}", course.Id);
+            Console.WriteLine("Kurs Adı: {0}", course.Name);
+            Console.WriteLine("Kurs Açıklaması: {0}", course.About);
+            Console.Write("Tanımlı Eğitimcilere Ait ID değerleri: ");
+            foreach (var intructorId in course.InstructorIds)
+            {
+                Console.Write(intructorId + " ");
+            }
+            Console.WriteLine("\n");    
+        }
     }
 }
 
