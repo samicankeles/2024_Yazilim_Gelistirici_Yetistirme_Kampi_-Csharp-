@@ -1,0 +1,15 @@
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.AssemblyInfoInputs.cache
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.AssemblyInfo.cs
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.sourcelink.json
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject.deps.json
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject.runtimeconfig.json
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject.dll
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/bin/Debug/net8.0/LinqProject.pdb
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.dll
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/refint/LinqProject.dll
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.pdb
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/LinqProject.genruntimeconfig.cache
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev2/LinqProject/LinqProject/obj/Debug/net8.0/ref/LinqProject.dll
