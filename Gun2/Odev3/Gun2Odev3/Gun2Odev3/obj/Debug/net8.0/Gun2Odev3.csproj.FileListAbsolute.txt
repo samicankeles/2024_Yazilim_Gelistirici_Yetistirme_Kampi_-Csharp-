@@ -1,0 +1,15 @@
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/Gun2Odev3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/Gun2Odev3.AssemblyInfoInputs.cache
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/Gun2Odev3.AssemblyInfo.cs
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/Gun2Odev3.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/Gun2Odev3.sourcelink.json
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/bin/Debug/net8.0/Gun2Odev3
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/bin/Debug/net8.0/Gun2Odev3.deps.json
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/bin/Debug/net8.0/Gun2Odev3.runtimeconfig.json
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/bin/Debug/net8.0/Gun2Odev3.dll
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/bin/Debug/net8.0/Gun2Odev3.pdb
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/Gun2Odev3.dll
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/refint/Gun2Odev3.dll
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/Gun2Odev3.pdb
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/Gun2Odev3.genruntimeconfig.cache
+/Users/samicankeles/Documents/GitHub/2024_Yazilim_Gelistirici_Yetistirme_Kampi_-Csharp-/Gun2/Odev3/Gun2Odev3/Gun2Odev3/obj/Debug/net8.0/ref/Gun2Odev3.dll
